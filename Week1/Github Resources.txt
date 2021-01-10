@@ -1,0 +1,43 @@
+Basic Terminal Commands:
+Display current directory: pwd
+Create durectory: mkdir directoryname
+Remove an empty directory: rmdir directoryname
+Change to directory: cd directoryname or path/to/directory/
+go back: cd ..
+Lists the contents of a directory: ls
+Create File: touch filename.extension
+Open file with vsCode: code filename
+Clear Terminal: clear
+
+
+
+
+
+Basic Git Commands:
+git init (initialize repository "1 time")
+git remote add origin url (connect to your repository  "1 time")
+git remote -v (Check if there is connection with the url)
+git status (check the status of your tracking files in your repository)
+git add . (track the files)
+git status (check the status of your tracking files in your repository)
+git commit -m "message" (commit your update)
+git status (check the status of your tracking files in your repository)
+git push origin master (send to github repository)
+
+
+
+
+  Github Resources:
+
+
+  How to 'Git Bash Here' on Mac OS X Git Repositories:  
+  https://www.youtube.com/watch?v=4NmcFGngyh0
+  https://www.youtube.com/watch?v=7BSEGuFov-Y
+
+  Git Cheat Sheet: https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
+
+  Basic Commands: https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
+
+  https://www.atlassian.com/git/tutorials/install-git
+
+  https://git-scm.com/downloads

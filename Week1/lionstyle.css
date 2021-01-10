@@ -1,0 +1,43 @@
+h1 {
+	color: brown;
+	border: 2px solid black;
+	background-color: yellow;
+	padding: 6px;
+}
+
+h2 {
+	color: brown;
+	border: 2px solid black;
+	margin: 2px;
+	background: orange;
+	font-style: italic;
+	font-size: 30px;
+}
+
+p {
+	color: brown;
+	font-family: cursive;
+	font-size: 15px;
+	font-stretch: 5px;
+}
+
+ul {
+	color: brown;
+	font-family: cursive;
+	font-size: 20px;
+	font-stretch: 5px;
+}
+
+ol {
+	color: brown;
+	font-family: cursive;
+	font-size: 20px;
+	font-stretch: 5px;
+}
+
+table {
+	color: brown;
+	font-family: cursive;
+	font-size: 20px;
+	font-stretch: 5px;
+}
